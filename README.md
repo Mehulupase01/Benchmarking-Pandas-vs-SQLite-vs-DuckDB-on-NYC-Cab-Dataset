@@ -1,0 +1,2 @@
+# Benchmarking Pandas vs SQLite vs DuckDB on NYC Cab Dataset
+ This project compares the performance of three data-processing systems—Pandas, SQLite, and DuckDB—on the NYC Cab dataset (2016). The comparison includes data loading, counting distinct values, grouping by day and hour, and machine learning tasks like fare estimation. DuckDB outperforms both Pandas and SQLite, particularly in complex queries and large datasets
